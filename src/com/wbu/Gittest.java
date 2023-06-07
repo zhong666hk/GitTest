@@ -9,5 +9,6 @@ public class Gittest {
         System.out.println("我是master分支");
         System.out.println("冲突来喽");
         System.out.println("结合体");
+        System.out.println("修改完代码要push");
     }
 }
